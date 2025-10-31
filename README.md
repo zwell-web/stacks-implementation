@@ -1,2 +1,18 @@
 # stacks-implementation
 a python program that reads mathematical expressions from an input and output file
+# Stack Expression Evaluator
+
+## Overview
+This Python program reads mathematical expressions from an input.txt file, evaluates each expression using a stack-based approach, and writes the results to an output.txt file.
+
+## Files
+- evaluate_expressions.py — main Python source code
+- input.txt — input file containing mathematical expressions
+- output.txt — file containing the evaluated results
+- README.md — documentation and instructions
+
+## How to Run
+1. Make sure all files are in the same directory.
+2. Run the program using:
+   ```bash
+   python evaluate_expressions.py
